@@ -1,0 +1,13 @@
+{
+  "name": "twitch-live-feed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Andrej Guran",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-ws": "^4.0.0",
+    "twitch-webhook": "^1.2.4",
+    "uuid": "^3.3.2"
+  }
+}
